@@ -22,7 +22,7 @@
 
 [ 1회차. 2022.07.07 ]
 
-* 최하은
+* 최하은 - [Retrofit2 & firebase](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.07/%EC%B5%9C%ED%95%98%EC%9D%80)
 * 김은오
 * 정승훈
 * 박준수
