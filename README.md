@@ -25,7 +25,7 @@
 * 최하은 - [Retrofit2 & firebase](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.07/%EC%B5%9C%ED%95%98%EC%9D%80)
 * 김은오 - [JSON & Retrofit](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.07/%EA%B9%80%EC%9D%80%EC%98%A4)
 * 정승훈 - [Glide & Retrofit](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.07/%EC%A0%95%EC%8A%B9%ED%9B%88)
-* 박준수
+* 박준수 - [XML](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.07/%EB%B0%95%EC%A4%80%EC%88%98)
 * 김연우 - [JAVA vs Kotlin](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.07/%EA%B9%80%EC%97%B0%EC%9A%B0)
 
 [ 2회차. 2022.07.14 ]
