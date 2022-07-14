@@ -4,9 +4,10 @@
 DSM 1학년(8기), 2학년(7기)를 위한 안드로이드 팀 스터디입니다.
 
 [DSM Android Study Season1](https://github.com/DSM-Android-Study/DSM-Android-Study)
-<br>
+
 
 📘 규칙
+
 발표는 일주일에 한번, 2명씩 진행합니다.
 
 주제는 되도록 겹치지 않도록 합니다.
