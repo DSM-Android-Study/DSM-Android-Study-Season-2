@@ -31,7 +31,7 @@
 [ 2회차. 2022.07.14 ]
 
 * 임세현 - [안드로이드 4대 컴포넌트](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/%EC%9E%84%EC%84%B8%ED%98%84)
-* 유현명
+* 유현명 - [AndroidTask & Flags](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/%EC%9C%A0%ED%98%84%EB%AA%85)
 * 이용진
 * 박민서 - [안드로이드 개념 정리](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/%EB%B0%95%EB%AF%BC%EC%84%9C)
 * 양지원
