@@ -24,7 +24,7 @@
 
 * 최하은 - [Retrofit2 & firebase](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.07/%EC%B5%9C%ED%95%98%EC%9D%80)
 * 김은오
-* 정승훈
+* 정승훈 - [Glide & Retrofit](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.07/%EC%A0%95%EC%8A%B9%ED%9B%88)
 * 박준수
 * 김연우
 
