@@ -33,6 +33,6 @@
 * 임세현
 * 유현명
 * 이용진
-* 박민서
+* 박민서 - [안드로이드 개념 정리](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/%EB%B0%95%EB%AF%BC%EC%84%9C)
 * 양지원
 * 김준호 - [Widget](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/김준호)
