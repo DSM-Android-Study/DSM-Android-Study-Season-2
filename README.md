@@ -34,5 +34,5 @@
 * 유현명 - [AndroidTask & Flags](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/%EC%9C%A0%ED%98%84%EB%AA%85)
 * 이용진
 * 박민서 - [안드로이드 개념 정리](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/%EB%B0%95%EB%AF%BC%EC%84%9C)
-* 양지원
+* 양지원 - [SharedPreferences](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/%EC%96%91%EC%A7%80%EC%9B%90)
 * 김준호 - [Widget](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/김준호)
