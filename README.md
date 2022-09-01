@@ -36,3 +36,8 @@
 * 박민서 - [안드로이드 개념 정리](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/%EB%B0%95%EB%AF%BC%EC%84%9C)
 * 양지원 - [SharedPreferences](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/%EC%96%91%EC%A7%80%EC%9B%90)
 * 김준호 - [Widget](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.07.14/김준호)
+
+
+[ 3회차. 2022.09.01 ]
+
+* 박민서 - [디자인 패턴을 쓰는 이유](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/blob/main/2022.09.01/%EB%B0%95%EB%AF%BC%EC%84%9C/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%20%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EC%9C%A0.md)
