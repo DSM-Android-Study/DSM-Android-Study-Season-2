@@ -42,3 +42,4 @@
 
 * 박민서(7기) - [디자인 패턴을 쓰는 이유](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/blob/main/2022.09.01/%EB%B0%95%EB%AF%BC%EC%84%9C/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%20%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EC%9C%A0.md)
 * 임세현(7기) - [Why Design System?](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/blob/main/2022.09.01/%EC%9E%84%EC%84%B8%ED%98%84/Android%20DesignSystem.pdf)
+* 양지원(7기) - [Splash Screen](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.09.01/%EC%96%91%EC%A7%80%EC%9B%90)
