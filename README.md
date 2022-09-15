@@ -47,3 +47,4 @@
 [ 4회차. 2022.09.15 ]
 
 * 박준수(8기) - [스레드](https://github.com/JunJaBoy/Android-Thread)
+* 유현명(7기) - [객채지향 5대원칙](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.09.15/%EC%9C%A0%ED%98%84%EB%AA%85)
