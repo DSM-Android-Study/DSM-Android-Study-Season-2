@@ -53,3 +53,4 @@
 [ 5회차. 2022.09.22 ]
 
 * 김연우(8기) - [DI](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.09.22/%EA%B9%80%EC%97%B0%EC%9A%B0)
+* 이용진(7기) - [Style](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.09.22/%EC%9D%B4%EC%9A%A9%EC%A7%84)
