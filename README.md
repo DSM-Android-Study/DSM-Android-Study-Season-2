@@ -58,5 +58,6 @@
 * 최하은(8기) - [람다](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.09.22/%EC%B5%9C%ED%95%98%EC%9D%80)
 
 [ 8회차. 2022.11.10 ]
-* 박준수(8기) - [Deprecated API)(https://github.com/JunJaBoy/Android-Deprecated_API)(or [here]())
+* 박준수(8기) - [Deprecated API)(https://github.com/JunJaBoy/Android-Deprecated_API)
+  * (or [here](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.11.10/%EB%B0%95%EC%A4%80%EC%88%98))
 * 유현명(7기) - [Jetpack UI](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.11.10/%EC%9C%A0%ED%98%84%EB%AA%85)
