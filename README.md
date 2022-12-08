@@ -67,3 +67,17 @@
 [ 9회차. 2022.11.17 ] 
 
 * 김연우(8기) - [Android CI / CD](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.11.17/%EA%B9%80%EC%97%B0%EC%9A%B0)
+
+
+
+
+[ 10회차, 2022.11.24 ]
+
+
+
+
+
+[ 11회차, 2022.12.08 ]
+
+* 김연우(8기) - [Pickers](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.12.08/%EA%B9%80%EC%97%B0%EC%9A%B0)
+* 박준수(8기) - [Reusable Tags](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.12.08/%EB%B0%95%EC%A4%80%EC%88%98)
