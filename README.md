@@ -57,6 +57,10 @@
 * 이용진(7기) - [Style](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.09.22/%EC%9D%B4%EC%9A%A9%EC%A7%84)
 * 최하은(8기) - [람다](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.09.22/%EC%B5%9C%ED%95%98%EC%9D%80)
 
+[ 6회차. 2022.10.20 ]
+
+* 박민서(7기) - [RestApi](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.10.20/%EB%B0%95%EB%AF%BC%EC%84%9C)
+
 [ 8회차. 2022.11.10 ]
 
 * 박준수(8기) - [Deprecated API)(https://github.com/JunJaBoy/Android-Deprecated_API)
@@ -74,10 +78,11 @@
 [ 10회차, 2022.11.24 ]
 
 
+[ 11회차. 2022.12.01 ]
 
+* 박민서(7기) - [안드로이드 서비스](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.12.01/%EB%B0%95%EB%AF%BC%EC%84%9C)
 
-
-[ 11회차, 2022.12.08 ]
+[ 12회차, 2022.12.08 ]
 
 * 김연우(8기) - [Pickers](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.12.08/%EA%B9%80%EC%97%B0%EC%9A%B0)
 * 박준수(8기) - [Reusable Tags](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2/tree/main/2022.12.08/%EB%B0%95%EC%A4%80%EC%88%98)
